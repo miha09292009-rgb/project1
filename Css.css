@@ -1,0 +1,165 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container_one {
+  background-color: #fff4e6;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 80px;
+  gap: 350px;
+}
+
+.logo{
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.button_one {
+  background-color: orange;
+  color: white;
+  margin-left: 50px;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+}
+
+.section_one {
+  background-color: #fff4e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.text_one{
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.foto_one {
+  height: 300px;
+  width: 350px;
+  border-radius: 30px;
+}
+
+.button_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  margin-top: 40px;
+  background-color: orange;
+  color: white;
+  padding: 10px 35px;
+  border-radius: 30px;
+  border: none;
+}
+
+.about{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.img{
+  height: 150px;
+  width: 150px;
+  border-radius: 25px;
+}
+
+.card_one{
+   text-align: center;
+    margin: 20px;
+    padding: 13px;
+    background-color: #fff4e6;
+    border-radius: 30px;
+      font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.card_two{
+     text-align: center;
+    margin: 20px;
+    padding: 13px;
+    background-color: #fff4e6;
+    border-radius: 30px;
+     font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.card_three{
+   text-align: center;
+    margin: 20px;
+    padding: 13px;
+    background-color:#fff4e6 ;
+    border-radius: 30px;
+      font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.cards
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.section_three{
+  background-color: #fff4e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 20px;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.info{
+  margin-top: 30px;
+}
+
+.foto_two{
+  height: 350px;
+  width: 350px;
+  border-radius: 150px;
+
+}
+
+.delivery{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.data{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+   font-family: 'Arial Narrow', Arial, sans-serif;
+}
